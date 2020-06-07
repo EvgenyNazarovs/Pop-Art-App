@@ -1,8 +1,8 @@
-<img src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/Screenshot%202020-05-14%20at%2011.04.10.png" width="300"> <img
-src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/Screenshot%202020-05-14%20at%2011.04.19.png" width="300"><img 
-src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/Screenshot%202020-05-14%20at%2011.04.32.png" width="300"><img 
-src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/Screenshot%202020-05-14%20at%2011.04.44.png" width="300"><img 
-src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/Screenshot%202020-05-14%20at%2011.04.52.png" width="300">
+<img src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_1.png" width="300"> <img
+src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_2.png" width="300"><img 
+src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_3.png" width="300"><img 
+src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_4.png" width="300"><img 
+src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_5.png" width="300">
 
 # Pop Art 101
 

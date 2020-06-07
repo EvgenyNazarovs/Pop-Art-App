@@ -1,8 +1,7 @@
 <img src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_1.png" width="300"><img
 src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_2.png" width="300"><img 
 src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_3.png" width="300"><img 
-src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_4.png" width="300"><img 
-src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_5.png" width="300">
+src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/pop_art_4.png" width="300">
 
 # Pop Art 101
 

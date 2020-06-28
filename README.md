@@ -6,12 +6,11 @@ src="https://github.com/EvgenyNazarovs/My-files/blob/master/pop-art-screenshots/
 
 # Pop Art 101
 
-A full-stack educational app about Pop Art
+An interative educational app that covers key artists of the Pop Art Movement.
 
-Made using JavaScript, Vue, Express JS, MongoDB, HTML/CSS, Bootstrap
+The app was made using Vue JS, Express, and Mongo DB, with custom-built API.
 
-The Pop Art 101 App uses custom-made APIs to display educational content about several key artists associated with the Pop Art Movement.
-The app includes a movement timeline, an interactive pop quiz, and a favourites page. The user can interact with the images displayed on the pages and add/remove them to favourites.
+The app offers a concise timeline of the transatlantic Pop Art movement, several pages dedicated to the most influential figures associated with it, an interative pop quiz, and a favourites page. The user can interact with the images displayed on the pages and add/remove them to favourites.
 
 This app was developed as part of the group project in CodeClan.
 
